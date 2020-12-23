@@ -1,0 +1,4 @@
+name: RealCommandFoods
+version: ${project.version}
+main: com.github.tonatumi.realcommandfoods.RealCommandFoods
+api-version: 1.16
